@@ -1,0 +1,3 @@
+-keep class com.sys.service.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
